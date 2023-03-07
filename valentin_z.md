@@ -1,3 +1,6 @@
+> http://localhost:8080/valentin_z/index.html
+> npx @11ty/eleventy --serve
+
 # Valentin Zorza
 ---
 ## Analista Funcional y Desarrollador
@@ -38,5 +41,3 @@ Comandos de Terminas aprendidos en la primer clase del Bootcamp
 | _`findd`_| alias = ls ~/ \| grep $1 |
 
 
-> http://localhost:8080/valentin_z/index.html
-> npx @11ty/eleventy --serve
